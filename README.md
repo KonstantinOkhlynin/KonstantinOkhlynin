@@ -1,4 +1,4 @@
-![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/download%20(1).gif)
+![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/download%20(2).gif)
 
 # Welcome to my profile
 _I am a beginner Software Engeneer_
