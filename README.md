@@ -1,9 +1,7 @@
 ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/download%20(2).gif)
 
-<h1 style="color: #444444; font-weight: bold;  border: none; margin-left: 200px">Welcome to my profile</h1>
-<div style=" border: 1px solid #ffffff; border-radius: 8px; height: avto;">
-<p style="color: #444444; margin-left: 10px; margin-top: 10px">Hello i am a beginner Web Developer. I like to study web programming and development tools, and I also want to study other languages and programming areas in the future. I also like to play the electric guitar. I am 23 and live in Moscow. Currently looking for a job, ready to learn new things and improve if you are an employer and you are interested in my Github write to me.My contacts below <span style="color: yellow">&#11015;</span></p>
-</div>
+# Welcome to my profile
+#### Hello i am a beginner Web Developer. I like to study web programming and development tools, and I also want to study other languages and programming areas in the future. I also like to play the electric guitar. I am 23 and live in Moscow. Currently looking for a job, ready to learn new things and improve if you are an employer and you are interested in my Github write to me. My contacts below &#11015;
 
 ## Languages and Tools
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-f08011?style=for-the-badge&logo=HTML5)
@@ -22,13 +20,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-303a42?style=for-the-badge&logo=Node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-303a42?style=for-the-badge&logo=Vue.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-303a42?style=for-the-badge&logo=MongoDB)
-### Follow Me
+## Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-0d3175?style=for-the-badge&logo=VK)](https://vk.com/kostyaok)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-0b4f87?style=for-the-badge&logo=Twitter)](https://twitter.com/Konstantin_Okhl)
 
 <a href="mailto:Kostya.Okhlynin@gmail.com">![Gmail](https://img.shields.io/badge/-Kostya.Okhlynin@gmail.com-941507?style=for-the-badge&logo=Gmail)</a>
 
+### Some statistics
+#### Statistics are small but there is much to strive for.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinOkhlynin&show_icons=true&theme=dark&bg_color=303a42&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinOkhlynin&layout=compact&theme=dark&bg_color=303a42&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
