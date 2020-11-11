@@ -1,4 +1,4 @@
-![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/ONSTANTIN%20OKHLYNIN_free-file.png)
+![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/ONSTANTIN%20OKHLYNIN_free-file.gif)
 
 # Welcome to my profile
 #### Hello i am a beginner Web Developer. I like to study web programming and development tools, and I also want to study other languages and programming areas in the future. I also like to play the electric guitar. I am 23 and live in Moscow. Currently looking for a job, ready to learn new things and improve if you are an employer and you are interested in my Github write to me. My contacts below &#11015;
