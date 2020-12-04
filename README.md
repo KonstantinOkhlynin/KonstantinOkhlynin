@@ -1,4 +1,4 @@
-![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Logo.gif)
+![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Headergithubname.svg)
 
 ## Languages and Tools
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-f08011?style=for-the-badge&logo=HTML5)
