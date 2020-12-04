@@ -1,4 +1,7 @@
 ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Headergithubname.svg)
+
+***
+
 ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Headergithub.svg)
 
 ## Languages and Tools
