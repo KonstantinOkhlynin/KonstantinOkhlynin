@@ -8,7 +8,7 @@
    ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/READMEREPOSITORIES.svg)
    ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/2.svg)
    ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/READMEREPOSITORIESS.svg)
-###   [VKONTAKTE](https://vk.com/kostyaok)        [TWITTER](https://twitter.com/Konstantin_Okhl)           [FACEBOOK](https://vk.com/kostyaok)       ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍<a href="mailto:Kostya.Okhlynin@gmail.com">GMAIL</a>
+###   [VKONTAKTE](https://vk.com/kostyaok)        [TWITTER](https://twitter.com/Konstantin_Okhl)         [FACEBOOK](https://vk.com/kostyaok)       ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍ ‌‌‍‍<a href="mailto:Kostya.Okhlynin@gmail.com">GMAIL</a>
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-ffffff?style=for-the-badge&logo=VK)](https://vk.com/kostyaok)
 
