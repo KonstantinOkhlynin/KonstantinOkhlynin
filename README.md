@@ -1,10 +1,11 @@
    ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Headergithubname.svg)
 
-***
 
-   ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Headergithub.svg)
 
    ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/READMEREPOSITORIES.svg)
+
+
+   ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Headergithub.svg)
 
 ## Languages and Tools
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-f08011?style=for-the-badge&logo=HTML5)
