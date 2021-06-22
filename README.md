@@ -21,7 +21,7 @@
 # My certificates
 ![Header](https://github.com/KonstantinOkhlynin/Certificate-Practicum-by-Yandex/blob/main/Certificate/Certificate-EN-png.png)
 
-# Contacts:
+# My contacts:
 ## [VKontakte](https://vk.com/konstantinokhlynin)
 ## [Facebook](https://www.facebook.com/kostya.okhlynin)
 ## [Telegram](https://t.me/KonstantinOkhlynin)
