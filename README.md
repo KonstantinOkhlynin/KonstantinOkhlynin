@@ -17,6 +17,12 @@
 ![Shields](https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=Node.js)
 ![Shields](https://img.shields.io/badge/Postman-555555?style=for-the-badge&logo=Postman)
 ## Other skills
-![Shields](https://img.shields.io/badge/Regular-Expressions-555555?style=for-the-badge)
+![Shields](https://img.shields.io/badge/Regular_Expressions-555555?style=for-the-badge)
 # My certificates
 ![Header](https://github.com/KonstantinOkhlynin/Certificate-Practicum-by-Yandex/blob/main/Certificate/Certificate-EN-png.png)
+
+# Contacts:
+## [VKontakte](https://vk.com/konstantinokhlynin)
+## [Facebook](https://www.facebook.com/kostya.okhlynin)
+## [Telegram](https://t.me/KonstantinOkhlynin)
+## Kostya.Okhlynin@gmail.com
