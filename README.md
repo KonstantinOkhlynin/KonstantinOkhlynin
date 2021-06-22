@@ -20,7 +20,7 @@
 ![Shields](https://img.shields.io/badge/Regular_Expressions-555555?style=for-the-badge)
 # My certificates
 ![Header](https://github.com/KonstantinOkhlynin/Certificate-Practicum-by-Yandex/blob/main/Certificate/Certificate-EN-png.png)
-
+![Header](https://github.com/KonstantinOkhlynin/Certificate-Practicum-by-Yandex/blob/main/Certificate/Контент-менеджер-1.png)
 # My contacts:
 ## [VKontakte](https://vk.com/konstantinokhlynin)
 ## [Facebook](https://www.facebook.com/kostya.okhlynin)
